@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="main-heading">
   <h1>Samuel Park</h1>
-  <div class="main-subtitle comment-text">// software engineer @ walmart global tech</div>
+  <div class="main-subtitle comment-text">// software engineer</div>
   <div class="main-subtitle comment-text">// cs + ai @ cornell</div>
   <div class="main-links">
     <a href="https://github.com/samparkk13" class="main-link">github</a> &middot; 
@@ -22,7 +22,7 @@ redirect_from:
 
 <div class="section-list">
   <div class="section-row">
-    <div class="section-year"></div>
+    <div class="section-year">2022 - 2026</div>
     <div class="section-info">
       <strong>Cornell University</strong><br>
       <span class="location-text">Ithaca, NY</span><br>
@@ -37,6 +37,17 @@ redirect_from:
 ## Experience
 
 <div class="section-list">
+  <div class="section-row">
+    <div class="section-year">2026 — 2026</div>
+    <div class="section-info">
+      <strong>Robinhood</strong><br>
+      <span class="location-text">New York, NY</span><br>
+      <span class="degree-text">Software Engineer Intern</span><br>
+      <span class="comment-text">// money movement</span><br>
+      <span style="display: flex; gap: 0.3em; margin-top: 0.5em;"> <span class="skill-badge"></span> <span class="skill-badge"></span> 
+      <span class="skill-badge"></span>  </span>
+    </div>
+  </div>
   <div class="section-row">
     <div class="section-year">2025 — 2025</div>
     <div class="section-info">
