@@ -42,7 +42,7 @@ redirect_from:
     <div class="section-info">
       <strong>Robinhood Markets</strong><br>
       <span class="location-text">New York, NY</span><br>
-      <span class="degree-text">Software Engineer Intern - Backend</span><br>
+      <span class="degree-text">Incoming Software Engineer Intern - Backend</span><br>
       <span class="comment-text">// money movement</span><br>
       <!-- <span style="display: flex; gap: 0.3em; margin-top: 0.5em;"> <span class="skill-badge"></span> <span class="skill-badge"></span> 
       <span class="skill-badge"></span>  </span> -->
